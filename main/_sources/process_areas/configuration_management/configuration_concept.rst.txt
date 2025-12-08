@@ -12,11 +12,11 @@
    # SPDX-License-Identifier: Apache-2.0
    # *******************************************************************************
 
-Concept
--------
+Concept Description
+-------------------
 
 .. doc_concept:: Configuration Management Concept
-   :id: doc_concept__configuration__process
+   :id: doc_concept__configuration_process
    :status: valid
 
 In this section a concept for the configuration management will be discussed.
@@ -42,7 +42,7 @@ Inputs
 Stakeholders
 ^^^^^^^^^^^^
 
-#. :need:`Technical Lead <rl__technical_lead>`
+#. :need:`Project Lead <rl__project_lead>`
 
    * for creating a module or a platform release a baseline of all configuration items is needed
 

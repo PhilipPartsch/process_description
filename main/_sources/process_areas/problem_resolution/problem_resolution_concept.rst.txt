@@ -16,7 +16,7 @@ Concept Description
 ###################
 
 .. doc_concept:: Concept Description
-   :id: doc_concept__problem__process
+   :id: doc_concept__problem_process
    :status: valid
    :tags: problem_resolution
 
@@ -53,7 +53,7 @@ Stakeholders for the Problem Report
    * Approves all problem resolution activities besides problem closing
    * Is responsible to initiate the the closure of the problem reported
 
-#. :need:`Technical Lead <rl__technical_lead>`, :need:`Module Lead <rl__module_lead>`
+#. :need:`Project Lead <rl__project_lead>`
 
    * Supports all problem resolution activities
    * Approves the closing of the problem resolution
@@ -93,7 +93,8 @@ In case safety or security is affected, in addition the impact analysis template
 : :ref:`Impact Analysis Template <chm_impact_analysis_templates>`  can be used to detail out the
 impact on safety/security as part of the description.
 
-(needs to be updated)
+The impact analysis tool (:need:`gd_req__change_tool_impact_analysis`) can support to
+here to identify the affected work products.
 
 .. _prm_analysis:
 
@@ -105,8 +106,7 @@ by authorized persons.
 
 Authorized person includes
 
-#. :need:`Technical Lead <rl__technical_lead>`
-#. :need:`Module Lead <rl__module_lead>`
+#. :need:`Project Lead <rl__project_lead>`
 #. :need:`Safety Manager <rl__safety_manager>`
 #. :need:`Security Manager <rl__security_manager>`
 #. :need:`Quality Manager <rl__quality_manager>`
@@ -123,7 +123,7 @@ monitored.
 The Problem Resolution implementation must be tracked until it is closed.
 
 The status of the Problem Report must be communicated by the
-:need:`Technical Lead <rl__technical_lead>` or :need:`Module Lead <rl__module_lead>` until
+:need:`Project Lead <rl__project_lead>` until
 the implementation is completed and confirmed.
 
 .. _prm_closing:

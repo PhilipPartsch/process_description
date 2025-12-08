@@ -19,8 +19,8 @@ For Release Management no additional roles need to be defined.
 
 Contributing Roles:
 
-   * :need:`Technical Lead <rl__technical_lead>`
+   * :need:`Committer <rl__committer>`
    * :need:`Project Lead <rl__project_lead>`
 
 A detailed overview of the responsibility for the steps of the Release Management process
-is listed here: :need:`doc_concept__rel__process`
+is listed here: :need:`doc_concept__rel_process`
